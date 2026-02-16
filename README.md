@@ -18,7 +18,7 @@
 ## Діаграми
 - Use-case: ![Use-case diagram](img/StreamingPlatformUseCase.svg)
 - ERD: ![ERD diagram](img/StreamingPlatformERD.svg)
-- ERD PostgreSQL: ![ERD PostgreSQL diagram](img/StreamingPlatform_ERD_PostgreSQL.png)
+- ERD PostgreSQL: ![ERD PostgreSQL diagram](img/StreamingPlatform_ERD_Postgresql.png)
 
 ## Стек та сервіси
 - База даних: PostgreSQL 
